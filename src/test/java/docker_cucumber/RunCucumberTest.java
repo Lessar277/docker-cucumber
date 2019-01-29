@@ -1,4 +1,4 @@
-package docker-cucumber;
+package docker_cucumber;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

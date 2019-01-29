@@ -1,4 +1,4 @@
-package docker-cucumber;
+package docker_cucumber;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
